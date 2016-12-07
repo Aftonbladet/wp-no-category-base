@@ -1,0 +1,11 @@
+{
+    "name": "aftonbladet/wp-no-category-base",
+    "description": "wp-no-category-base plugin moved to AB repo. No changes",
+    "keywords": ["wordpress", "plugin", "gallery"],
+    "license": "proprietary",
+    "type": "wordpress-plugin",
+    "repositories": [{
+        "type": "vcs",
+        "url": "git@github.com:Aftonbladet/wp-no-category-base.git"
+    }]
+}
